@@ -1,4 +1,4 @@
-# Cursos de Python por parte del DSC-UPIITA
+# Curso de Básicos de Python del DSC-UPIITA
 
 [![N|Solid](https://res.cloudinary.com/startup-grind/image/upload/dpr_2.0,fl_sanitize/v1/gcs/platform-data-dsc/contentbuilder/logo_hPnue3j.svg)](https://nodesource.com/products/nsolid)
 
@@ -15,7 +15,15 @@
 - Requieren tener [Jupyter Notebook](https://jupyter.org/)
 - Una forma efectiva de tenero los dos es instalar [Anaconda](https://www.anaconda.com/products/individual)
 
+### Instalación de Anaconda
+- [YouTube](https://youtu.be/u0eSXIQdDoE)
 
+### Contribuidores 
+- [Gustavo Elizarraras](https://github.com/GustavoElizarraras)
+- [Luis Marios Trejo](https://github.com/Jerts)
+- [Axel Díaz](https://github.com/upiita-Emma-d)
+
+### Sígue al DSC
 | Red Social | Link |
 | ------ | ------ |
 | Facebook| [Developer Student Club Facebook](https://www.facebook.com/dscipnupiita) |
